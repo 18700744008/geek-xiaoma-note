@@ -1,0 +1,12 @@
+一、概念
+是一个分布式版本控制工具
+二、常用命令
+1. git init 初始化
+2. git config --global user.name="GeekUniversity"
+    git config --global user.email="geekuni@geekbang.com"
+    git config --global --list
+3. git status 查看状态
+4. git add learn_git.html
+5. git commit -m "注释内容"
+6. git log 显示历史提交信息
+
